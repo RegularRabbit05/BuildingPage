@@ -1,0 +1,17 @@
+/* TEAM */
+	Lead: RegularRabbit05
+	GitHub: https://www.github.com/RegularRabbit05
+	From: Italy
+/* THANKS */
+    Raylib: https://www.raylib.com/
+    GitHub: https://github.com/raysan5/raylib
+    Author: https://www.twitter.com/raysan5
+
+    GoogleIDX: https://idx.google.com
+    Author: https://google.com
+/* SITE */
+	Language: English
+	Doctype: HTML5
+	IDE: GoogleIDX
+
+// humans.txt -> https://humanstxt.org/

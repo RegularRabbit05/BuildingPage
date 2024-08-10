@@ -1,0 +1,2 @@
+cd game
+./build.sh
