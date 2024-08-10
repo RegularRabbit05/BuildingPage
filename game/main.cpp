@@ -14,6 +14,7 @@ int main() {
     SetConfigFlags(FLAG_WINDOW_RESIZABLE | FLAG_WINDOW_UNDECORATED | FLAG_WINDOW_MAXIMIZED | FLAG_WINDOW_TRANSPARENT);
     InitWindow(1000, 500, "Construction in progress... Come back later!");
     SetExitKey(2);
+    SetTargetFPS(24);
 
     Camera camera = { 
         {4.4, 5, 10},
@@ -39,7 +40,6 @@ int main() {
         DrawModel(base.model, (Vector3){0, 0, 0}, 1.0f, WHITE);
         EndMode3D();
 
-        DrawFPS(10, 10);
         EndDrawing();
     }
 
